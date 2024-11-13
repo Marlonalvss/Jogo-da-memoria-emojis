@@ -2,8 +2,11 @@
 
 Desenvolvido como parte de um desafio da Digital Innovation One (DIO), este jogo da memória foi criado em JavaScript utilizando emojis ou fotos como tema principal.
 
-<img src="./src/images/Screenshot_1.jpg" alt="Print do Jogo 1" width="300">
-<img src="./src/images/Screenshot_2.jpg" alt="Print do Jogo 2" width="300" height="173">
+<div style="display: flex; justify-content: space-between;">
+<img src="./src/images/Screenshot_1.jpg" alt="Print do Jogo 1" width="48%">
+<img src="./src/images/Screenshot_2.jpg" alt="Print do Jogo 2" width="48%">
+</div>
+
 
 ## Tecnologias Utilizadas 🛠
 
