@@ -24,7 +24,7 @@ Desenvolvido como parte de um desafio da Digital Innovation One (DIO), este jogo
 
 ## Como Jogar 🎮
 
-1. **Baixe o Jogo**: Clone este repositório para sua máquina local.
+1. **Baixe o Jogo ou clique no Link**: [Conheça Aqui](https://marlonalvss.github.io/Jogo-da-memoria-emojis/) ou clone este repositório para sua máquina local.
 2. **Inicie o Jogo**: Abra o arquivo `index.html` no seu navegador web.
 3. **Encontre os Pares**: Clique nas cartas para encontrar e combinar os pares.
 
