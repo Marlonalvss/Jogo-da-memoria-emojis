@@ -12,7 +12,7 @@ Desenvolvido como parte de um desafio da Digital Innovation One (DIO), este jogo
 
 - **HTML5** e **CSS3**: Estrutura e aparência do jogo.
 - **JavaScript**: Lógica de programação e interatividade.
-- **Sprites e Imagens Customizadas**: Criação de uma estética única para o jogo.
+- **Imagens Customizadas**: Criação de uma estética única para o jogo.
 
 ## Funcionalidades ⚙🔍
 
